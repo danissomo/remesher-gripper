@@ -1,0 +1,51 @@
+{
+    "scene_base_class": "table",
+    "no_class_tag": "no_class",
+    "classes": [
+        "table",
+        "cup",
+        "pielers",
+        "screwdriver",
+        "no_class"
+    ],
+    "meshes": {
+        "table": [
+            {
+                "path": "table/table.obj",
+                "scale": 0.005,
+                "swap_yz": true
+            }
+        ],
+        "cup": [
+            {
+                "path": "cup/Cup2.obj",
+                "scale": 0.01,
+                "swap_yz": false
+            },
+            {
+                "path": "cup/Cup.obj",
+                "scale": 0.014,
+                "swap_yz": true
+            }
+        ],
+        "pielers": [
+            {
+                "path": "pielers/pielers.obj",
+                "scale": 0.01,
+                "swap_yz": false
+            }
+        ],
+        "screwdriver": [
+            {
+                "path": "screwdriver/screwdriver_1.obj",
+                "scale": 0.03,
+                "swap_yz": false
+            },
+            {
+                "path": "screwdriver/screwdriver.obj",
+                "scale": 5e-05,
+                "swap_yz": false
+            }
+        ]
+    }
+}

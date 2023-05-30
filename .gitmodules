@@ -1,0 +1,3 @@
+[submodule "point2mesh"]
+	path = point2mesh
+	url = https://github.com/ranahanocka/point2mesh.git
